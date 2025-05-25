@@ -1,8 +1,6 @@
-## OGANI WEBSITE
+## WEBSITE traicay
 Simple e-commerce website
 
-## Systems analysis and design
-[Document here](https://docs.google.com/document/d/15LlPJ1ml2mhi5k_id07NnRnk0Hnt7AReZGlLLF4fsJo/edit?usp=sharing)
 
 
 ## Running the application locally
@@ -37,8 +35,7 @@ Import database from ```oganisql.sql```. Using default account:
 - [Maven](https://mvnrepository.com/)
 - [Angular](https://angular.io/)
 - [PrimeNG](https://primeng.org/)
-## Author
-[Dương Tuấn Phương](https://github.com/duongtuanphuong)
+
 
 
 ------------
